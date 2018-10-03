@@ -1,0 +1,22 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: auto;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+}
+ 
+/* Targets the i tag for icons */
+i {
+  margin-right: 20px;
+}
+
+/* The button for changing the theme of the nav */
+.button {
+  width: 100%;
+}

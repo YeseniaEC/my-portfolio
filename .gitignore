@@ -3,6 +3,8 @@
 #Environments
 /src/environments
 
+*.environments
+
 # compiled output
 /dist
 /tmp
